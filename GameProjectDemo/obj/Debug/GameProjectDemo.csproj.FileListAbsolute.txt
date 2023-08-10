@@ -1,0 +1,6 @@
+/Users/canozdemir/Projects/GameProjectDemo/GameProjectDemo/obj/Debug/GameProjectDemo.csproj.AssemblyReference.cache
+/Users/canozdemir/Projects/GameProjectDemo/GameProjectDemo/obj/Debug/GameProjectDemo.csproj.CoreCompileInputs.cache
+/Users/canozdemir/Projects/GameProjectDemo/GameProjectDemo/bin/Debug/GameProjectDemo.exe
+/Users/canozdemir/Projects/GameProjectDemo/GameProjectDemo/bin/Debug/GameProjectDemo.pdb
+/Users/canozdemir/Projects/GameProjectDemo/GameProjectDemo/obj/Debug/GameProjectDemo.exe
+/Users/canozdemir/Projects/GameProjectDemo/GameProjectDemo/obj/Debug/GameProjectDemo.pdb
