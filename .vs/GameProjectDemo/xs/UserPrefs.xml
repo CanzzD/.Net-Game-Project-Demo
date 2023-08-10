@@ -1,22 +1,23 @@
 ﻿<Properties StartupConfiguration="{E4FEBE72-EB73-434E-8148-DF66ED830466}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="GameProjectDemo/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GameProjectDemo/Abstract/BaseGameManager.cs">
     <Files>
-      <File FileName="GameProjectDemo/Abstract/BaseGameManager.cs" Line="1" Column="1" />
-      <File FileName="GameProjectDemo/Program.cs" Line="30" Column="22" />
+      <File FileName="GameProjectDemo/Abstract/BaseGameManager.cs" Line="8" Column="6" />
+      <File FileName="GameProjectDemo/Program.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="GameProjectDemo" expanded="True">
             <Node name="GameProjectDemo" expanded="True">
-              <Node name="Abstract" expanded="True" />
+              <Node name="Abstract" expanded="True">
+                <Node name="BaseGameManager.cs" selected="True" />
+              </Node>
               <Node name="Concreate" expanded="True">
                 <Node name="Campaign" expanded="True" />
                 <Node name="Customer" expanded="True" />
                 <Node name="Game" expanded="True" />
               </Node>
               <Node name="Entities" expanded="True" />
-              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
